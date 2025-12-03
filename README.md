@@ -22,13 +22,13 @@ Bewertungs- und Verwirrungsmatrix
 
 Ordner results/ Enthält:
 
-model.pkl (trainiertes Modell)
+sentiment_model.joblib (trainiertes Modell)
 
-vectorizer.pkl (TF-IDF-Vektorisierer)
+tfidf_vectorizer.joblib (TF-IDF-Vektorisierer)
 
 accuracy.txt (Modellgenauigkeit)
 
-confusion_matrix.png (normierte Matrix)
+confusion_matrix_rating.png (normierte Matrix)
 
 Ordnerdaten/ Aus rechtlichen Gründen sind keine Original-Amazon-Daten enthalten. Stattdessen liegt eine Datei README.txt, die dies erklärt.
 
