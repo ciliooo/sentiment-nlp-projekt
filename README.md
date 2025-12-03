@@ -42,7 +42,7 @@ Windows:
 
 venv\Scripts\activate
 
-4️ Abhängigkeiten installieren pip install -r require.txt
+4 Abhängigkeiten installieren pip install -r require.txt
 
 5️ Notebook starten Jupiter Notebook
 
